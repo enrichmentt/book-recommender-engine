@@ -5,6 +5,7 @@ seaborn
 scikit-learn
 scipy
 scikit-surprise
+torch
 nbformat
 nbclient
 ipykernel
